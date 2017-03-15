@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.classpath
+.settings/org.eclipse.jdt.core.prefs
+*.project
+bin/code/FilteringIterator$1.class
+*.class
